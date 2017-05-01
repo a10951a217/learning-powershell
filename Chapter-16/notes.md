@@ -7,7 +7,7 @@
 ```powershell
 Get-Service | Stop-Service
 ```
-**THis is bold text**
+**This is bold text**
 
 - A bullet point
 - Another one
