@@ -7,7 +7,18 @@
 ```powershell
 Get-Service | Stop-Service
 ```
-**THis is bold text**
+**This is bold text**
+
+Some simple text here:
 
 - A bullet point
 - Another one
+    * lesser bullet
+        * how far can it go?
+1. An *italic* text
+*You **can** combine them*
+
+One man once said:
+> I am to be quoted
+
+[x] is :+1 
