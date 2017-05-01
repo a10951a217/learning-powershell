@@ -21,4 +21,4 @@ Some simple text here:
 One man once said:
 > I am to be quoted
 
-[x] is :+1 
+- [x] is :+1 
